@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HierarchyData</key>
+	<array>
+		<string>CDF3BAFA-EFDB-46A6-A461-D9D33E2497CA</string>
+	</array>
+	<key>ProjectItems</key>
+	<dict>
+		<key>CDF3BAFA-EFDB-46A6-A461-D9D33E2497CA</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9vazQDAAAAAAQQMAAAAKJNAc/IdxbcvUq3BdFUv3IF
+				LX1EoUuP5ULRGqAYTu8CGAIAAAQAAAADAwAAAAgAKAUA
+				AAABAQAAVXNlcnMAAAAHAAAAAQEAAHRvbXJlaWQACQAA
+				AAEBAABEb2N1bWVudHMAAAAGAAAAAQEAAEdpdEh1YgAA
+				DAAAAAEBAABBbmFseXNlLUFjdHMJAAAAAQEAAFNjcmlw
+				dC5zaAAAABgAAAABBgAAEAAAACAAAAAwAAAARAAAAFQA
+				AABoAAAACAAAAAQDAADcaQYAAAAAAAgAAAAEAwAABBcK
+				AAAAAAAIAAAABAMAAAUXCgAAAAAACAAAAAQDAAC9DtsB
+				AgAAAAgAAAAEAwAAvg7bAQIAAAAIAAAABAMAAMAP2wEC
+				AAAAGAAAAAEGAACcAAAArAAAALwAAADMAAAA3AAAAOwA
+				AAAIAAAAAAQAAEHA/rd38TwyGAAAAAECAAABAAAAAAAA
+				AA8AAAAAAAAAAAAAAAAAAAAAAAAAAQUAAAQAAAADAwAA
+				AQAAAAgAAAAEAwAABAAAAAAAAAAEAAAAAwMAAPYBAAAI
+				AAAAAQkAAGZpbGU6Ly8vDAAAAAEBAABNYWNpbnRvc2gg
+				SEQIAAAABAMAAABQBl46AAAACAAAAAAEAABBvrff8QAA
+				ACQAAAABAQAAREIxODJEM0QtRDY3My0zMDVELTg2RUEt
+				OEM4MTY1ODE0M0ZGGAAAAAECAACBAAAAAQAAAO8TAAAB
+				AAAAAAAAAAAAAAABAAAAAQEAAC8AAADkAAAA/v///wEA
+				AAAAAAAAEgAAAAQQAAB8AAAAAAAAAAUQAAD8AAAAAAAA
+				ABAQAAAsAQAAAAAAAEAQAAAcAQAAAAAAAFUQAABUAQAA
+				AAAAAFYQAABMAQAAAAAAAAIgAAAMAgAAAAAAAAUgAAB8
+				AQAAAAAAABAgAACMAQAAAAAAABEgAADAAQAAAAAAABIg
+				AACgAQAAAAAAABMgAACwAQAAAAAAACAgAADsAQAAAAAA
+				ADAgAABMAQAAAAAAAAHAAABgAQAAAAAAABHAAAAgAAAA
+				AAAAABLAAABwAQAAAAAAABDQAAAEAAAAAAAAAA==
+				</data>
+				<key>FileURL</key>
+				<string>file:///Users/tomreid/Documents/GitHub/Analyse-Acts/Script.sh</string>
+				<key>HasSecurityScope</key>
+				<true/>
+				<key>RelativePath</key>
+				<string>./Script.sh</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>Script.sh</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
+		</dict>
+	</dict>
+	<key>com.barebones.DocumentFormatVersion</key>
+	<integer>5</integer>
+	<key>com.barebones.DocumentType</key>
+	<string>Project</string>
+</dict>
+</plist>
